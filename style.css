@@ -1,3 +1,6 @@
+*{
+  margin: 0;
+}
 
 .square {
   width: 200px;
@@ -18,4 +21,18 @@
 .mole {
   background-image: url('mole.jpg');
   background-size: cover;
+}
+
+.headbar {
+  background-color: black;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.headbar h1 {
+  margin-left: 20pt;
+}
+
+.main_body {
+  margin-left: 20pt;
 }
