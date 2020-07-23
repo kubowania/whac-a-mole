@@ -3,7 +3,7 @@ const mole = document.querySelectorAll('.mole');
 const timeLeft = document.querySelector('#time-left');
 let score = document.querySelector('#score');
 
-let result = 0
+let result = 0;
 let currentTime = timeLeft.textContent;
 
 function randomSquare() {
