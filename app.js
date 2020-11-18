@@ -41,8 +41,8 @@ function countDown() {
   timeLeft.textContent = currentTime
 
   if(currentTime === 0 ) {
-    clearInterval(timerId)
     alert('GAME OVER! Your final score is' + result)
+    location.reload()
   }
 }
 
