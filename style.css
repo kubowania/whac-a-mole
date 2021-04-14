@@ -1,21 +1,17 @@
-
-.square {
-  width: 200px;
-  height: 200px;
-  border-style: solid;
-  border-color: black;
+.grid {
+	width: 606px;
+	height: 606px;
+	display: flex;
+	flex-wrap: wrap;
 }
 
-.grid {
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: center;
-  align-content: center;
-  width: 618px;
-  height: 618px;
+.square {
+	height: 200px;
+	width: 200px;
+	border: solid black 1px;
 }
 
 .mole {
-  background-image: url('mole.jpg');
-  background-size: cover;
+	background-image: url("mole.jpg");
+	background-size: cover;
 }
