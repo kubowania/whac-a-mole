@@ -1,4 +1,4 @@
-# whack-a-mole
+# whac-a-mole
 Vanilla JavaScript game
 
 
