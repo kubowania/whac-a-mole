@@ -11,9 +11,9 @@ Learn to make a simple grid-based game using HTML, CSS and JavaScript. The idea 
 - setInterval
 - classList.add
 
-...and many more inbuilt JavaScript functions.
+...and much more.
 
-View the full tutorial [here]:(https://www.youtube.com/watch?v=o93jem7oPnA&t=21s)
+View the full tutorial [here]:(https://youtu.be/rJU3tHLgb_c)
 
 As always, if you get stuck or have any questions, please do comment below and I will be sure to get back to you!
 
